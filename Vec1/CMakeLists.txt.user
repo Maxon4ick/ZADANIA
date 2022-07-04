@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.0, 2022-07-01T14:45:42. -->
+<!-- Written by QtCreator 7.0.0, 2022-07-04T21:44:51. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -67,7 +67,22 @@
     <value type="bool" key="AutoTest.Framework.QtQuickTest">true</value>
     <value type="bool" key="AutoTest.Framework.QtTest">true</value>
    </valuemap>
-   <valuemap type="QVariantMap" key="AutoTest.CheckStates"/>
+   <valuemap type="QVariantMap" key="AutoTest.CheckStates">
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:Copy">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:Creating">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:CreatingCH">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:CreatingZero">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:PopBack">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:PushBack">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsDouble">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsFloat">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsInt">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsShort">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsSizeDouble">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsSizeFloat">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsSizeInt">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/User/Documents/QT/SUK/Vec1/My/test/MyVec_test.cpp:VectorTestsSizeShort">Checked</value>
+   </valuemap>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
    <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey">
@@ -106,7 +121,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\Kurs\build-matr-Desktop_Qt_6_2_4_MinGW_64_bit-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\SUK\build-Vec1-Desktop_Qt_6_2_4_MinGW_64_bit-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -152,7 +167,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\Kurs\build-matr-Desktop_Qt_6_2_4_MinGW_64_bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\SUK\build-Vec1-Desktop_Qt_6_2_4_MinGW_64_bit-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -196,7 +211,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\Kurs\build-matr-Desktop_Qt_6_2_4_MinGW_64_bit-RelWithDebInfo</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\SUK\build-Vec1-Desktop_Qt_6_2_4_MinGW_64_bit-RelWithDebInfo</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -240,7 +255,7 @@
 -DCMAKE_PREFIX_PATH:PATH=%{Qt:QT_INSTALL_PREFIX}
 -DCMAKE_C_COMPILER:FILEPATH=%{Compiler:Executable:C}
 -DCMAKE_CXX_COMPILER:FILEPATH=%{Compiler:Executable:Cxx}</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\Kurs\build-matr-Desktop_Qt_6_2_4_MinGW_64_bit-MinSizeRel</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">C:\Users\User\Documents\QT\SUK\build-Vec1-Desktop_Qt_6_2_4_MinGW_64_bit-MinSizeRel</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <valuelist type="QVariantList" key="CMakeProjectManager.MakeStep.BuildTargets">
@@ -296,15 +311,15 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">matr</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.matr</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">matr</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Vec1</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.Vec1</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">Vec1</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/User/Documents/QT/Kurs/build-matr-Desktop_Qt_6_2_4_MinGW_64_bit-Debug</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/User/Documents/QT/SUK/build-Vec1-Desktop_Qt_6_2_4_MinGW_64_bit-Debug</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -313,15 +328,15 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Matrix_class_t</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.Matrix_class_t</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">Matrix_class_t</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">MyV_t</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.MyV_t</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">MyV_t</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/User/Documents/QT/Kurs/build-matr-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/test</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/User/Documents/QT/SUK/build-Vec1-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/test</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">2</value>
   </valuemap>
